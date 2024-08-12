@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\bin\Debug\net8.0\first_code_dotnet.exe
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\bin\Debug\net8.0\first_code_dotnet.deps.json
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\bin\Debug\net8.0\first_code_dotnet.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\bin\Debug\net8.0\first_code_dotnet.dll
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\bin\Debug\net8.0\first_code_dotnet.pdb
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.dll
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\refint\first_code_dotnet.dll
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.pdb
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\ref\first_code_dotnet.dll
