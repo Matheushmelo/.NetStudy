@@ -12,3 +12,4 @@ C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\n
 C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.pdb
 C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.genruntimeconfig.cache
 C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\ref\first_code_dotnet.dll
+C:\Users\USER\OneDrive\Documentos\projetosPessoais\first_code_dotnet\obj\Debug\net8.0\first_code_dotnet.sourcelink.json
